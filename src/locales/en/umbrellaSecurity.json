@@ -1,0 +1,10 @@
+{
+  "User":"User",
+  "Password":"Password",
+  "IDCard":"ID Card",
+  "Optional":"Optional",
+  "System": {
+    "CTRL": "Umbrella System Control"
+  },
+  "Lab":"Lab"
+}

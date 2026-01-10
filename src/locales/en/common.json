@@ -1,0 +1,19 @@
+{
+  "Umbrella": "Umbrella",
+  "ProductDetails": "product details",
+  "Back":"back",
+  "User":"User",
+  "Username":"Username",
+  "PW":"Password",
+  "PWConfirm":"Password Confirm",
+  "Email":"Email",
+  "SignUp": "Sign up",
+  "SignIn":"Sign In",
+  "LogOut": "Log out",
+  "Recruitment":"Recruitment",
+  "Materials":"Materials",
+  "HotProducts":"Hot Products",
+  "PersonalCare":"Personal Care",
+  "HealthCare":"Health care",
+  "Links":"Links"
+}

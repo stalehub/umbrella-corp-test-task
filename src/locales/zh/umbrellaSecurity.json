@@ -1,0 +1,10 @@
+{
+  "User":"使用者",
+  "Password":"密碼",
+  "IDCard":"識別磁卡",
+  "Optional":"非必要",
+  "System": {
+    "CTRL": "保護傘系統介面"
+  },
+  "Lab":"試驗所"
+}
